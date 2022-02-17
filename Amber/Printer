@@ -1,8 +1,18 @@
 #Printer info
 
 Model:
-
+  ⤷Creality Ender 5
+  
 Motherboard:
+  ⤷
 
 Extruder:
-
+  ⤷:
+    ⤷Stepps/mm:
+ 
+Extras:
+  ⤷BLTouch probe
+  | ⤷Offset:
+  |
+  ⤷Petsfang cooling
+    ⤷Files:
