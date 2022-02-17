@@ -1,8 +1,19 @@
 #Printer info
 
 Model:
-
+  ⤷Creality Ender 3 pro
+  
 Motherboard:
+  ⤷
 
 Extruder:
-
+  ⤷Direct:
+    ⤷Stepps/mm:
+    ⤷Tube lenght: N/A
+ 
+Extras:
+  ⤷Pinda probe
+  | ⤷Offset:
+  |
+  ⤷Petsfang cooling
+    ⤷Files:
