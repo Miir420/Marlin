@@ -7,8 +7,9 @@ Motherboard:
   ⤷
 
 Extruder:
-  ⤷:
+  ⤷:Direct
     ⤷Stepps/mm:
+    ⤷Tube lenght: N/A
  
 Extras:
   ⤷BLTouch probe
