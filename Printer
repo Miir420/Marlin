@@ -2,7 +2,13 @@
 
 Model:
   ⤷Creality Ender 3 pro
+
+Color:
+  ⤷Green
   
+Marlin flavor:
+  ⤷Emerald
+
 Motherboard:
   ⤷
 
@@ -16,4 +22,6 @@ Extras:
   | ⤷Offset:
   |
   ⤷Petsfang cooling
-    ⤷Files:
+  | ⤷Files:
+  |
+  ⤷Springsteel magnetic bed
